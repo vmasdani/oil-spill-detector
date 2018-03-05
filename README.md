@@ -1,1 +1,0 @@
-# Oil Spill Detector
