@@ -3,3 +3,4 @@ This is an underwater oil spill detector which uses 2 light dependent resistors 
 
 This project uses NodeMCU v1.0, 2 light dependent resistors, and an additional 4015 multiplexer IC.
 
+![alt-text](http://oi63.tinypic.com/2ro2jhs.jpg)
