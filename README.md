@@ -1,1 +1,2 @@
 # Oil Spill Detector
+This is an underwater oil spill detector which uses 2 light dependent resistors to compare the light intensity in each sensors. The sensor reading values vary when an unidentified object obstructs light which is directed to the light dependent resistor.
