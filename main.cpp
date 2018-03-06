@@ -13,8 +13,8 @@
     -Pin D2 to select 1 of multiplexer IC
     -Pin D4 to select 2 of multiplexer IC
 */
-
-#include <Arduino.h>
+// Uncomment the code below if you are using PlatformIO
+// #include <Arduino.h>
 #include <ESP8266WiFi.h>
 #include <ESP8266HTTPClient.h>
 #include <FirebaseArduino.h>
